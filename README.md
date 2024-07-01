@@ -4,11 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter Develeper
 -----------------
 
-I'm a dedicated Flutter developer passionate about crafting exceptional mobile applications. My expertise is creating cross-platform solutions seamlessly running on Android and iOS devices. I deeply understand Flutter's widget customization, state management, and API integration, ensuring that my apps are visually appealing and highly functional. With a keen eye for detail and a commitment to delivering top-notch user experiences, I'm enthusiastic about turning ideas into polished, responsive, and user-friendly mobile apps. Let's collaborate and bring your mobile app vision to life! 📱🚀 
-#FlutterDeveloper
-#MobileAppDevelopment
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehae15&label=Profile%20views&color=0e75b6&style=flat" alt="snehae15" /> </p>
 
-* ✉️  You can contact me at [snehae15@gmail.com](mailto:snehae15@gmail.com)
+- 🔭 I’m currently working on **Qhire**
+
+- 🌱 I’m currently learning **Php**
+
+- 💬 Ask me about **Flutter,Dart,Firebase**
+
+- 📫 How to reach me **snehae15@gmail.com**
 
 ### Skills
 
