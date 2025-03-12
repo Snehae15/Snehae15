@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehae15&label=Profile%20views&color=0e75b6&style=flat" alt="snehae15" /> </p>
 
-- 🔭 I’m currently working on **Qhire**
+- 🔭 I’m currently working on **Eons-Build**
 
 - 🌱 I’m currently learning **Php**
 
