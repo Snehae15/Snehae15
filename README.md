@@ -113,7 +113,7 @@ Key Features
 
 ---
 
-### 🏗️ Eons Access — Construction Management *(Monorepo · B2B)*
+### 🏗️ Eons Build — Construction Management *(Monorepo · B2B)*
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=flat&logo=dart&logoColor=white)
 ![Melos](https://img.shields.io/badge/Monorepo_Melos-0EA5E9?style=flat&logo=git&logoColor=white)
