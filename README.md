@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sneha%20E&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20Scalable%20Apps&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Flutter+Developer+with+3%2B+Years+of+Experience+%F0%9F%9A%80;Enterprise+SaaS+%7C+B2B+%7C+Multi-tenant+Apps+%F0%9F%8F%A2;BLoC+%7C+GetX+%7C+Clean+Architecture+%E2%9A%99%EF%B8%8F;Monorepo+Architect+with+Melos+%F0%9F%97%82%EF%B8%8F;Manual+Testing+%7C+Functional+%7C+API+%7C+Performance+%F0%9F%A7%AA;Fleet+%7C+Construction+%7C+E-Commerce+%7C+Delivery+Apps+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Flutter+Developer+with+2%2B+Years+of+Experience+%F0%9F%9A%80;Enterprise+SaaS+%7C+B2B+%7C+Multi-tenant+Apps+%F0%9F%8F%A2;BLoC+%7C+GetX+%7C+Clean+Architecture+%E2%9A%99%EF%B8%8F;Monorepo+Architect+with+Melos+%F0%9F%97%82%EF%B8%8F;Manual+Testing+%7C+Functional+%7C+API+%7C+Performance+%F0%9F%A7%AA;Fleet+%7C+Construction+%7C+E-Commerce+%7C+Delivery+Apps+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@ class SnehaE extends FlutterDeveloper {
 
   final String name      = "Sneha E";
   final String role      = "Flutter Developer";
-  final int    exp       = 3; // years
+  final int    exp       = 2; // years
   final String focus     = "Clean Architecture & Scalability";
 
   final List<String> domains = [
