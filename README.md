@@ -21,7 +21,7 @@ class SnehaE extends FlutterDeveloper {
   final String name      = "Sneha E";
   final String role      = "Flutter Developer";
   final String company   = "Nexteons LLP, Malappuram";
-  final int    exp       = 2; // years of professional experience
+  final int    exp       = 3; // years of professional experience
   final String focus     = "Clean Architecture · Scalability · Quality";
 
   final List<String> domains = [
