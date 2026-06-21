@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sneha%20E&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20Scalable%20Apps&descAlignY=55&descAlign=50" width="100%"/>
+<!-- HEADER BANNER -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sneha%20E&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20Scalable%20Apps&descAlignY=55&descAlign=50)](https://github.com/Snehae15)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=Flutter+Developer+with+2%2B+Years+of+Experience+%F0%9F%9A%80;Enterprise+SaaS+%7C+B2B+%7C+Multi-tenant+Apps+%F0%9F%8F%A2;BLoC+%7C+GetX+%7C+Clean+Architecture+%E2%9A%99%EF%B8%8F;Monorepo+Architect+with+Melos+%F0%9F%97%82%EF%B8%8F;Manual+Testing+%7C+Functional+%7C+API+%7C+Performance+%F0%9F%A7%AA;Fleet+%7C+Construction+%7C+E-Commerce+%7C+Delivery+Apps+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br/>
-
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehae15)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehae15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehae15)
 [![Profile Views](https://komarev.com/ghpvc/?username=Snehae15&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)](https://github.com/Snehae15)
 
 </div>
@@ -18,267 +15,218 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Flutter Dev" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ```dart
 class SnehaE extends FlutterDeveloper {
 
   final String name      = "Sneha E";
   final String role      = "Flutter Developer";
-  final int    exp       = 2; // years
-  final String focus     = "Clean Architecture & Scalability";
+  final String company   = "Nexteons LLP, Malappuram";
+  final int    exp       = 2; // years of professional experience
+  final String focus     = "Clean Architecture · Scalability · Quality";
 
   final List<String> domains = [
-    "🏢 Enterprise SaaS & B2B Apps",
-    "🚗 Fleet & Ride Management",
-    "🏗️ Construction Management",
-    "🛒 E-Commerce & Delivery",
-    "📊 Admin Dashboards",
+    "🏢 Enterprise SaaS & Multi-Tenant B2B Platforms",
+    "🚗 Fleet & Ride Management Systems",
+    "🏗️ Construction Project Management",
+    "🛒 E-Commerce & Delivery Applications",
+    "📊 Cross-Platform Admin Dashboards",
   ];
 
-  final Map<String, String> currentWork = {
-    "project"    : "E-Commerce Application",
+  final Map<String, dynamic> currentWork = {
+    "project"    : "Full-Featured E-Commerce Application",
     "state_mgmt" : "GetX",
-    "pattern"    : "Clean Architecture",
+    "pattern"    : "Clean Architecture (Domain / Data / Presentation)",
     "backend"    : "Node.js + Firebase",
   };
 
-  final List<String> stateManagement = [
-    "🟦 BLoC / Cubit",
-    "⚡ GetX",
-    "🔄 Provider",
+  final List<String> strengths = [
+    "BLoC / Cubit  —  predictable, testable state flows",
+    "GetX          —  state, routing & DI full ecosystem",
+    "Melos Monorepo —  shared packages across multi-app workspaces",
+    "GraphQL & REST —  Dio interceptors, token refresh, offline sync",
+    "Firebase       —  Auth, FCM, Firestore, Crashlytics, Analytics",
   ];
 
-  final List<String> testing = [
-    "🔬 Functional Testing",
-    "🎨 UI/UX Testing",
-    "🔌 API Testing (Postman)",
-    "⚡ Performance Testing",
-  ];
-
-  String get motto =>
-    "Code with purpose. Design with empathy. 🚀";
+  String get motto => "Code with purpose. Design with empathy. 🚀";
 }
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🏗️ Architecture & Engineering Strengths
+## 🏆 What Makes Me Stand Out
 
-<div align="center">
-
-| 🧩 Skill | 📋 Detail | ⭐ Level |
+| | Skill | Why It Matters |
 |---|---|---|
-| **Clean Architecture** | Domain / Data / Presentation layers, DI, SOLID principles | `████████░░` Expert |
-| **BLoC / Cubit** | Complex state, predictable UI, clean separation of concerns | `████████░░` Expert |
-| **GetX** | State, routing, dependency injection — full ecosystem | `████████░░` Expert |
-| **Monorepo (Melos)** | Shared packages, multi-app workspaces, internal libraries | `███████░░░` Advanced |
-| **GraphQL & REST** | Dio interceptors, token refresh, error handling, offline sync | `████████░░` Expert |
-| **Firebase** | Auth, FCM, Firestore, Analytics, Crashlytics | `████████░░` Expert |
-| **Node.js Integration** | REST API consumption, JWT auth, real-time backend sync | `███████░░░` Advanced |
-| **Manual Testing** | Functional, UI/UX, API (Postman), Performance profiling | `███████░░░` Advanced |
-
-</div>
+| 🏗️ | **Clean Architecture** | Maintainable, testable codebases that scale as teams grow |
+| 📦 | **Melos Monorepo** | Shared packages with zero duplication across multi-app workspaces |
+| 🔄 | **BLoC + GetX + Provider** | Right tool for every state management scenario |
+| 🔌 | **GraphQL & REST** | Production-grade API integration with token refresh & error handling |
+| 🧪 | **Manual QA Ownership** | I own quality — functional, UI/UX, API, and performance testing |
+| 📱 | **Cross-Platform** | Android · iOS · Web from a single, clean Dart codebase |
+| 🎨 | **Custom UI** | CustomPainter, Lottie animations, dynamic theming, SVG |
+| 📄 | **Report Generation** | Automated PDF exports with Syncfusion (used in production) |
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+---
+
+### 🚗 Autrix — Fleet Management SaaS *(Multi-Tenant · Production)*
+
+> Real-time, multi-tenant SaaS fleet management platform serving enterprise clients across **Android, iOS, and Web**.
+
+**What I Built**
+
+- 🚘 Real-time vehicle tracking with Check-in / Check-out lifecycle management
+- 🔧 Complete Tyre Management — rotation schedules, resoling, maintenance lifecycle
+- ⛽ Fuel expense monitoring & trip allowance tracking
+- 📊 Interactive dashboards — FL Chart + Syncfusion DataGrid with live data
+- 📄 Automated PDF report generation (syncfusion_flutter_pdf + printing package)
+- 🔔 Firebase FCM push alerts for insurance & document expiry deadlines
+- 🎨 Lottie animations, custom SVG assets, GoRouter deep-linking
+
+**Tech Stack**
+
+`Dart` `Flutter` `GetX` `GraphQL` `REST (Dio)` `Firebase` `GoRouter` `Syncfusion` `FL Chart`
 
 ---
 
-### 🚗 Autrix — Fleet Management SaaS *(Multi-tenant)*
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat&logo=dart&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-10B981?style=flat&logo=dart&logoColor=white)
+### 🏗️ Eons Build — Construction Management *(Monorepo · B2B · Multi-Role)*
 
-> Multi-tenant SaaS fleet management platform for real-time vehicle & driver logistics across Android, iOS, and Web.
+> B2B construction platform connecting firms and clients with real-time project tracking, financial transparency, and on-site issue resolution.
 
-```
-Key Features
-├── 🚘 Real-time vehicle tracking with Check-in / Check-out system
-├── 🔧 Tyre Management — lifecycle, rotation, resoling & maintenance schedules
-├── ⛽ Fuel Expense monitoring & Trip Allowance management
-├── 📊 Interactive data visualizations with FL Chart & Syncfusion DataGrid
-├── 📄 Automated PDF report generation (syncfusion_flutter_pdf + printing)
-├── 🔔 Firebase FCM — insurance & document expiry real-time alerts
-└── 🎨 Lottie animations, custom SVG, GoRouter deep-linking
-```
-**Stack:** Dart · Flutter · GetX · GraphQL · REST (Dio) · Firebase · GoRouter · Syncfusion · FL Chart
+**What I Built**
+
+- 🗂️ Melos monorepo — `next_ui_component` & `build_model_api` shared packages
+- 🐛 Snag Management — photo + audio issue tracking with full resolution lifecycle
+- 🎙️ Voice recording & audio waveform visualizations (flutter_sound)
+- 💰 Financial module — payment schedules, digital receipts, payment tracking
+- 📡 Firebase FCM — automated push notifications for project milestones
+- 📴 Offline-first with Hive local caching for low-connectivity construction sites
+- 🎨 CustomPainter widgets, dynamic theme switching, Lottie, GoRouter deep-linking
+
+**Tech Stack**
+
+`Dart` `Flutter` `BLoC/Cubit` `Melos` `Node.js` `Firebase` `Hive` `GoRouter` `GetIt` `Audio Processing`
 
 ---
 
-### 🏗️ Eons Build — Construction Management *(Monorepo · B2B)*
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=flat&logo=dart&logoColor=white)
-![Melos](https://img.shields.io/badge/Monorepo_Melos-0EA5E9?style=flat&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+### 🛒 E-Commerce Application *(Active · Clean Architecture)*
 
-> B2B construction management platform connecting construction firms and clients with real-time project tracking, financial transparency, and issue resolution.
+> Full-featured cross-platform commerce app — product discovery, cart, real-time order tracking, payment integration, and admin panel.
 
-```
-Key Features
-├── 🗂️ Melos monorepo — next_ui_component & build_model_api shared packages
-├── 🐛 Snag Management — photo/audio issue tracking with full lifecycle
-├── 🎙️ Voice recording & audio waveform visualizations (flutter_sound)
-├── 💰 Financial module — payment schedules, digital receipts & tracking
-├── 📡 Firebase FCM — automated project milestone push notifications
-├── 📴 Offline-first with Hive local caching for low-connectivity sites
-├── 🎨 CustomPainter widgets, dynamic theme switching, Lottie animations
-└── 🔗 GoRouter declarative navigation & deep-linking
-```
-**Stack:** Dart · Flutter · BLoC/Cubit · Melos · Node.js · Firebase · Hive · GoRouter · GetIt · Audio Processing
+**Key Features**
+
+- 🛍️ Product catalog with search, filter & category navigation
+- 🛒 Cart management, multi-step checkout & payment gateway integration
+- 📦 Real-time order tracking & delivery status updates
+- 🔔 Firebase FCM push notifications
+- 📊 Admin panel — product, order & user management
+
+**Tech Stack**
+
+`Dart` `Flutter` `GetX` `Node.js` `Firebase` `Clean Architecture` `REST (Dio)`
 
 ---
 
-### 🛒 E-Commerce Application *(Current — Active Development)*
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-10B981?style=flat&logo=dart&logoColor=white)
+### 🛵 Delivery & Logistics App *(Multi-Role)*
 
-> Full-featured cross-platform e-commerce app with product catalog, cart, real-time order tracking, payment integration, and admin panel — built on clean architecture.
+> Three-sided platform — **customer · rider · admin** — with real-time delivery tracking, route optimization, and earnings analytics.
 
-```
-Key Features
-├── 🛍️ Product catalog with search, filter & category navigation
-├── 🛒 Cart management, checkout flow & payment integration
-├── 📦 Real-time order tracking & delivery status updates
-├── 🔔 Push notifications via Firebase FCM
-└── 📊 Admin panel for product, order & user management
-```
-**Stack:** Dart · Flutter · GetX · Node.js · Firebase · Clean Architecture · REST (Dio)
+**Tech Stack**
+
+`Dart` `Flutter` `Node.js` `Firebase` `Google Maps API` `REST (Dio)`
 
 ---
 
-### 🛵 Delivery & Logistics App
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)
+### 📊 Admin Dashboard *(Cross-Platform · Web + Mobile)*
 
-> Multi-role delivery platform (customer · rider · admin) with real-time order tracking, route optimization, push notifications, and an earnings dashboard.
+> Responsive, unified admin dashboard for user, order, report, and analytics management — zero code duplication across web and mobile.
 
-**Stack:** Dart · Flutter · Node.js · Firebase · Google Maps API · REST (Dio)
+**Tech Stack**
+
+`Dart` `Flutter Web` `Node.js` `REST (Dio)` `Syncfusion`
 
 ---
 
-### 📊 Admin Dashboard
-![Flutter Web](https://img.shields.io/badge/Flutter_Web-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-> Responsive cross-platform admin dashboard for managing users, orders, reports, and analytics — shared codebase across web and mobile, zero code duplication.
-
-**Stack:** Dart · Flutter Web · Node.js · REST (Dio) · Syncfusion
-
-</div>
-
----
-
-## 🗂️ Monorepo Architecture *(Eons Access — Construction)*
+## 🗂️ Monorepo Architecture (Eons Build)
 
 ```
-📦 eons-access-monorepo/                    # Melos workspace
+📦 eons-access-monorepo/             # Melos workspace
 ├── 📱 apps/
-│   ├── client_app/                         # Client-facing Flutter mobile app
-│   └── contractor_app/                     # Contractor / firm Flutter app
+│   ├── client_app/                  # Client-facing Flutter mobile app
+│   └── contractor_app/              # Contractor / firm Flutter app
 │
 ├── 📦 packages/
-│   ├── next_ui_component/                  # Shared design system & custom widgets
-│   └── build_model_api/                    # Shared API models & data entities
+│   ├── next_ui_component/           # Shared design system & custom widgets
+│   └── build_model_api/             # Shared API models & data entities
 │
-└── melos.yaml                              # Workspace config & script automation
+└── melos.yaml                       # Workspace config & script automation
 ```
 
-> **Why Monorepo?** Shared `next_ui_component` and `build_model_api` packages ensure a single source of truth for UI and data contracts across both apps — zero duplication, consistent updates.
+> **Why Monorepo?**  
+> Shared `next_ui_component` and `build_model_api` packages guarantee a single source of truth for UI and data contracts — consistent updates, zero duplication, faster iteration.
 
 ---
 
-## 🧪 Manual Testing
+## 🧪 Quality Engineering — Manual Testing
 
-<div align="center">
+I integrate testing throughout the development lifecycle, not as an afterthought. Every project I ship includes structured testing across four dimensions:
 
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-0EA5E9?style=for-the-badge&logo=checkmarx&logoColor=white)
-![UI/UX Testing](https://img.shields.io/badge/UI%2FUX_Testing-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Performance Testing](https://img.shields.io/badge/Performance_Testing-10B981?style=for-the-badge&logo=speedtest&logoColor=white)
+### 🔬 Functional Coverage
 
-</div>
-
-As a Flutter developer, I integrate manual testing throughout the development lifecycle — not as an afterthought, but as a core quality practice across every project.
-
-### 🔬 Functional Testing
 ```
-✅ Test Case Approach
-├── User Authentication   → Login, Register, Forgot Password, Token Expiry
-├── E-Commerce Flows      → Add to Cart, Checkout, Payment, Order Tracking
-├── Fleet Flows           → Check-in/out, Tyre Lifecycle, Fuel Logging, PDF Export
-├── Construction Flows    → Snag Create/Resolve, Audio Capture, Payment Schedule
-├── Role-Based Access     → Admin vs Client vs Contractor permission boundaries
-└── Edge Cases            → Empty states, network loss, invalid inputs, offline mode
+✅ Auth Flows      — Login · Register · Forgot Password · Token Expiry
+✅ Business Flows  — Cart · Checkout · Payment · Order Tracking · Fleet Ops
+✅ Role-Based      — Admin vs Client vs Contractor permission boundaries
+✅ Edge Cases      — Empty states · Network loss · Invalid inputs · Offline mode
 ```
 
-### 🎨 UI/UX Testing
+### 🎨 UI/UX Checklist
 
-| Test Area | What I Check |
+| Area | What I Verify |
 |---|---|
-| **Responsiveness** | Layout integrity across small, medium, large screens |
+| **Responsiveness** | Layout integrity across small, medium, large screen sizes |
 | **Cross-Platform** | Visual parity between Android & iOS builds |
 | **Navigation** | Back stack, deep links, GoRouter route transitions |
-| **Gestures** | Swipe, scroll, long-press, pull-to-refresh |
+| **Loading States** | Lottie, shimmer, skeleton screens, error widgets |
 | **Dark / Light Mode** | Theme consistency, no hardcoded colors |
 | **Accessibility** | Font scaling, contrast ratios, tap target sizes |
-| **Loading States** | Lottie animations, shimmer, skeleton screens, error widgets |
 
-### 🔌 API Testing
-```
-📬 API Testing Checklist (Postman)
-├── ✅ Verify request payloads match Node.js / GraphQL backend contract
-├── ✅ Validate response structures & status codes (200, 400, 401, 404, 500)
-├── ✅ Test auth token flows — access token expiry & refresh token handling
-├── ✅ Check paginated endpoints & list loading behavior
-├── ✅ Simulate network failures — timeout, no internet, slow connection
-└── ✅ Validate error messages propagate correctly to the UI layer
-```
+### 🔌 API Testing (Postman)
 
-### ⚡ Performance Testing
 ```
-📊 Performance Checks
-├── Flutter DevTools   → Frame rendering (target: 60fps / 16ms per frame)
-├── Memory Profiler    → Detect leaks in long lists, image loading & audio streams
-├── Cold Start Time    → App launch speed on low-end & mid-range devices
-├── Offline Mode       → Hive cache integrity on reconnect (Eons Access)
-├── PDF Generation     → Syncfusion report export time under load (Autrix)
-└── Battery & CPU      → Background impact during live GPS & FCM tracking
+✅ Request payloads match Node.js / GraphQL backend contract
+✅ Response structures & status codes (200 · 400 · 401 · 404 · 500)
+✅ Token flows — access token expiry & refresh token handling
+✅ Paginated endpoints & list loading behaviour
+✅ Network failure simulation — timeout, no internet, slow connection
+✅ Error messages propagate correctly to the UI layer
 ```
 
-### 🐛 Bug Reporting Workflow
+### ⚡ Performance Profiling
+
 ```
-Bug Found → Document (Screenshot + Steps to Reproduce + Device + OS Version)
-          → Severity Tag (Critical / Major / Minor / Cosmetic)
-          → Fix → Retest → Regression Check → Sign-off ✅
+📊 Flutter DevTools  — Frame rendering (target: 60fps / 16ms per frame)
+🧠 Memory Profiler   — Leak detection in long lists, images & audio streams
+🚀 Cold Start Time   — Launch performance on low-end & mid-range devices
+📴 Offline Integrity — Hive cache on reconnect (Eons Build)
+📄 PDF Export Speed  — Syncfusion report generation under load (Autrix)
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 📱 Mobile & Core
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%230256b9.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ⚙️ State Management & Architecture
 ![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=dart&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0EA5E9?style=for-the-badge&logo=dart&logoColor=white)
 ![Melos](https://img.shields.io/badge/Melos_Monorepo-0EA5E9?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔥 Backend & Cloud
@@ -289,87 +237,55 @@ Bug Found → Document (Screenshot + Steps to Reproduce + Device + OS Version)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌐 APIs & Data
+### 🌐 APIs & Networking
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🎨 UI, Reporting & Tools
+### 🎨 UI, Reporting & Tooling
 ![Syncfusion](https://img.shields.io/badge/Syncfusion-0D6EFD?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehae15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehae15&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Snehae15&theme=tokyonight&hide_border=true"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehae15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)](https://github.com/Snehae15)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehae15&theme=tokyonight&hide_border=true&layout=compact&count_private=true)](https://github.com/Snehae15)
 
----
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Snehae15&theme=tokyonight&hide_border=true)](https://github.com/Snehae15)
 
-## 🐍 Contribution Snake
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snehae15&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Snehae15)
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snehae15/Snehae15/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snehae15/Snehae15/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Snehae15/Snehae15/output/github-snake.svg"/>
-</picture>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Snehae15&theme=tokyonight&no-frame=true&margin-w=6&column=7)](https://github.com/Snehae15)
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehae15&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+![github-snake](https://raw.githubusercontent.com/Snehae15/Snehae15/output/github-snake.svg)
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Open to Opportunities
+
+I'm a Flutter Developer with **3+ years of production experience** building enterprise SaaS, B2B platforms, and consumer apps. I bring clean architecture thinking, strong QA discipline, and end-to-end ownership from design handoff to deployment.
+
+If your team is building ambitious mobile products, I'd love to connect.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Snehae15&theme=tokyonight&no-frame=true&margin-w=6&column=7"/>
-</div>
-
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Snehae15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
-
-### 💙 Let's build something scalable together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehae15)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehae15@gmail.com)
 
 *"Architecture is not just about structure — it's about making the next change easier."*
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)](https://github.com/Snehae15)
 
 </div>
